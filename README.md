@@ -49,9 +49,20 @@
 * Aho-Corasick **(TODO)**
 
 ## 5. Geometria
-* Iloczyn wektorowy **(TODO)**
-* Iloczyn skalarny **(TODO)**
-* Sprawdzanie czy punkt należy do odcinka **(TODO)**
+* Iloczyn wektorowy
+* Iloczyn skalarny 
+* Pole trójkąta
+* Odległość punktu od prostej
+* Odległość punktu od odcinka
+* Symetria centralna
+* Symetria osiowa
+* Symetralna odcinka
+* Obrót punktu względem innego punktu
+* Punkt przecięcia prostych
+* Rzut punktu na prostą
+* Sprawdzanie po której stronie prostej leży punkt
+* Sprawdzanie czy punkt należy do prostej
+* Sprawdzanie czy punkt należy do odcinka
 * Sprawdzanie czy punkt należy do trójkąta **(TODO)**
 * Sprawdzanie czy punkt należy do wielokąta wypukłego w O(log n) (Przy posortowanych punktach) **(TODO)**
 * Otoczka wypukła **(TODO)**

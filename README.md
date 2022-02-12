@@ -1,21 +1,15 @@
 # Zawartość biblioteczki
 
 ## 1. Teoria liczb
-* NWD, NWW **(TODO)**
-* Rozszerzony algorytm Euklidesa **(TODO)**
+* NWD, NWW 
+* Rozszerzony algorytm Euklidesa 
 * Inwersja modularna **(TODO)**
-* Sito Eratostenesa **(TODO)**
-* Funkcja Phi **(TODO)**
-* Test Millera Rabina **(TODO)**
-* Szybkie potęgowanie i zastosowanie go przy wykonywaniu operacji łącznych **(TODO)**
+* Sito Eratostenesa 
+* Funkcja Phi 
+* Test Millera Rabina 
 * Arytmetyka dużych liczb **(TODO)**
 
 ## 2. Struktury
-* Kolejka **(TODO)**
-* Stos **(TODO)**
-* Kolejka priorytetowa **(TODO)**
-* Sety **(TODO)**
-* Mapy **(TODO)**
 * Kolejka minimów **(TODO)**
 * DSU **(TODO)**
 * Drzewa przedziałowe **(TODO)**

@@ -47,6 +47,8 @@ int main(){
 			add(1, 0, n-1, a, b);
 		}
 		if(z == 2){ // max
+			cin >> a >> b;
+			a--; b--;
 			cout << maxi(1, 0, n-1, a, b) << "\n";
 		}
 	}

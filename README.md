@@ -23,9 +23,9 @@
 * Floyd-Warshall
 * MST **(TODO)**
 * Punkty artykulacji
-* Mosty **(TODO)**
+* Mosty
 * Sortowanie topologiczne
-* Silnie spójne składowe **(TODO)**
+* Silnie spójne składowe
 * 0-1 BFS
 * Cykl Eulera
 * LCA

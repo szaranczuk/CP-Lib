@@ -10,7 +10,7 @@
 * Arytmetyka dużych liczb **(TODO)**
 
 ## 2. Struktury
-* Kolejka minimów **(TODO)**
+* Kolejka minimów
 * DSU
 * Drzewa przedziałowe **(TODO)**
 * Sparse Table

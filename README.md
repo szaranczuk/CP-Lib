@@ -16,7 +16,7 @@
 * Sparse Table **(TODO)**
 
 ## 3. Grafy
-* DFS (No chyba nie)
+* DFS
 * BFS
 * Dijkstra
 * Bellman-Ford

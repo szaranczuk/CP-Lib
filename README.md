@@ -3,7 +3,7 @@
 ## 1. Teoria liczb
 * NWD, NWW 
 * Rozszerzony algorytm Euklidesa 
-* Inwersja modularna **(TODO)**
+* Inwersja modularna
 * Sito Eratostenesa 
 * Funkcja Phi 
 * Test Millera Rabina 
@@ -30,6 +30,7 @@
 * Cykl Eulera **(TODO)**
 * LCA **(TODO)**
 * Sprawdzanie czy graf jest dwudzielny **(TODO)**
+* Najdłuższa ścieżka w drzewie **(TODO)**
 
 ## 4. Tekst
 * KMP **(TODO)**

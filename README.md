@@ -22,14 +22,14 @@
 * Bellman-Ford
 * Floyd-Warshall
 * MST **(TODO)**
-* Punkty artykulacji **(TODO)**
+* Punkty artykulacji
 * Mosty **(TODO)**
 * Sortowanie topologiczne
 * Silnie spójne składowe **(TODO)**
 * 0-1 BFS
-* Cykl Eulera **(TODO)**
+* Cykl Eulera
 * LCA **(TODO)**
-* Sprawdzanie czy graf jest dwudzielny **(TODO)**
+* Sprawdzanie czy graf jest dwudzielny
 * Najdłuższa ścieżka w drzewie **(TODO)**
 
 ## 4. Tekst

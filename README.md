@@ -21,7 +21,7 @@
 * Dijkstra
 * Bellman-Ford
 * Floyd-Warshall
-* MST **(TODO)**
+* MST
 * Punkty artykulacji
 * Mosty
 * Sortowanie topologiczne
@@ -30,7 +30,7 @@
 * Cykl Eulera
 * LCA
 * Sprawdzanie czy graf jest dwudzielny
-* Najdłuższa ścieżka w drzewie **(TODO)**
+* Najdłuższa ścieżka w drzewie
 
 ## 4. Tekst
 * KMP **(TODO)**

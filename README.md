@@ -53,7 +53,7 @@
 ## 6. Programowanie dynamiczne
 * Problem plecakowy **(TODO)**
 * Spójny podciąg o największej sumie **(TODO)**
-* Najdłuższy wspólny podciąg **(TODO)**
+* Najdłuższy wspólny podciąg
 * Problem największej działki
 
 ## 7. Inne

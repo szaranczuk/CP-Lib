@@ -3,7 +3,7 @@
 ## 1. Teoria liczb
 * NWD, NWW 
 * Rozszerzony algorytm Euklidesa 
-* Inwersja modularna **(TODO)**
+* Inwersja modularna
 * Sito Eratostenesa 
 * Funkcja Phi 
 * Test Millera Rabina 

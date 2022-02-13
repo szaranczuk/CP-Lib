@@ -11,9 +11,9 @@
 
 ## 2. Struktury
 * Kolejka minimów **(TODO)**
-* DSU **(TODO)**
+* DSU
 * Drzewa przedziałowe **(TODO)**
-* Sparse Table **(TODO)**
+* Sparse Table
 
 ## 3. Grafy
 * DFS

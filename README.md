@@ -18,15 +18,15 @@
 ## 3. Grafy
 * DFS **(TODO)**
 * BFS **(TODO)**
-* Dijkstra **(TODO)**
-* Bellman-Ford **(TODO)**
-* Floyd-Warshall **(TODO)**
+* Dijkstra
+* Bellman-Ford
+* Floyd-Warshall
 * MST **(TODO)**
 * Punkty artykulacji **(TODO)**
 * Mosty **(TODO)**
-* Sortowanie topologiczne **(TODO)**
+* Sortowanie topologiczne
 * Silnie spójne składowe **(TODO)**
-* 0-1 BFS **(TODO)**
+* 0-1 BFS
 * Cykl Eulera **(TODO)**
 * LCA **(TODO)**
 * Sprawdzanie czy graf jest dwudzielny **(TODO)**

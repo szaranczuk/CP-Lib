@@ -33,12 +33,10 @@
 * Najdłuższa ścieżka w drzewie
 
 ## 4. Tekst
-* KMP **(TODO)**
-* Wyznaczanie długości wszystkich okresów słowa **(TODO)**
-* Przesunięcie cykliczne **(TODO)**
+* KMP
+* Wyznaczanie długości wszystkich okresów słowa
+* Przesunięcie cykliczne
 * Manacher **(TODO)**
-* Tablica sufiksowa **(TODO)**
-* Słownik podsłów bazowych **(TODO)**
 * KMR **(TODO)**
 * Trie **(TODO)**
 * Aho-Corasick **(TODO)**

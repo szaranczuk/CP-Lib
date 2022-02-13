@@ -29,7 +29,7 @@ struct Minqueue{
 		if(v1.empty()) return v2.back().second;	
 		return min(v1.back().second, v2.back().second);
 	}
-} q;
+};
 
 int main(){
 	return 0;

@@ -30,6 +30,7 @@
 * Cykl Eulera **(TODO)**
 * LCA **(TODO)**
 * Sprawdzanie czy graf jest dwudzielny **(TODO)**
+* Najdłuższa ścieżka w drzewie **(TODO)**
 
 ## 4. Tekst
 * KMP **(TODO)**

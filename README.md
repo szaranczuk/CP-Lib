@@ -16,8 +16,8 @@
 * Sparse Table **(TODO)**
 
 ## 3. Grafy
-* DFS **(TODO)**
-* BFS **(TODO)**
+* DFS (No chyba nie)
+* BFS
 * Dijkstra
 * Bellman-Ford
 * Floyd-Warshall
@@ -28,7 +28,7 @@
 * Silnie spójne składowe **(TODO)**
 * 0-1 BFS
 * Cykl Eulera
-* LCA **(TODO)**
+* LCA
 * Sprawdzanie czy graf jest dwudzielny
 * Najdłuższa ścieżka w drzewie **(TODO)**
 

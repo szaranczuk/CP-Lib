@@ -31,6 +31,7 @@
 * LCA
 * Sprawdzanie czy graf jest dwudzielny
 * Najdłuższa ścieżka w drzewie
+* Zliczanie ścieżek o danej długości
 
 ## 4. Tekst
 * KMP

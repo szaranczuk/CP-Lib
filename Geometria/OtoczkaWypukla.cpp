@@ -22,18 +22,22 @@ inline long long det(p& a, p& b, p& c) {
 	return (b.x-a.x)*(c.y-a.y)-(b.y-a.y)*(c.x-a.x);
 }
 
+inline long long det2(p& a, p& b, p& c){
+	return (b.x-a.x)*(c.y-b.y)-(b.y-a.y)*(c.x-b.x);
+}
+
 inline long long dist(p& a, p& b){
 	return (a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y);
 }
 
 inline bool check(p& a, p& b, p& c, bool col){
-	long long o = det(a, b, c);
+	long long o = det2(a, b, c);
 	return o < 0 || (col && o == 0);
 }
 
 auto cmp = [] (pair<p, int>& a, pair<p, int>& b){
 	long long o = det(start, a.f, b.f);
-	if(o != 0) return o < 0;
+	if(o != 0) return o > 0;
 	return dist(start, a.f) < dist(start, b.f);
 };
 

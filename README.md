@@ -39,8 +39,8 @@
 * Przesunięcie cykliczne
 * Manacher
 * KMR
-* Trie **(TODO)**
-* Aho-Corasick **(TODO)**
+* Trie
+* Aho-Corasick
 
 ## 5. Geometria
 * Iloczyn wektorowy **(TODO)**

@@ -38,7 +38,7 @@
 * Wyznaczanie długości wszystkich okresów słowa
 * Przesunięcie cykliczne
 * Manacher
-* KMR **(TODO)**
+* KMR
 * Trie **(TODO)**
 * Aho-Corasick **(TODO)**
 

@@ -47,7 +47,6 @@
 * Iloczyn skalarny 
 * Sprawdzanie czy punkt należy do odcinka
 * Sprawdzanie czy punkt należy do trójkąta
-* Sprawdzanie czy punkt należy do wielokąta wypukłego w O(log n) (Przy posortowanych punktach) **(TODO)**
 * Sprawdzanie czy odcinki się przecinają
 * Otoczka wypukła **(TODO)**
 

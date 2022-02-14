@@ -6,7 +6,7 @@ using namespace std;
 #define x first
 #define y second
 
-typedef pair<int, int> p;
+typedef pair<long long, long long> p;
 
 inline long long det(p& a, p& b, p& c) { // det(AB, AC)
 	return (b.x-a.x)*(c.y-a.y)-(b.y-a.y)*(c.x-a.x);
@@ -31,6 +31,10 @@ inline bool on_segment(p& a, p& b, p& c){ // A on BC
 
 inline bool in_triangle(p& s, p& a, p& b, p& c){ // S in ABC
 	return abs(det(a, b, c)) == abs(det(s, a, b)) + abs(det(s, b, c)) + abs(det(s, c ,a));
+}
+
+inline long long dist(p& a, p& b){
+	return (a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y);
 }
 
 bool do_segments_cross(p& a, p& b, p& c, p& d){ // AB with CD

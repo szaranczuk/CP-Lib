@@ -51,8 +51,8 @@
 * Otoczka wypukła **(TODO)**
 
 ## 6. Programowanie dynamiczne
-* Problem plecakowy **(TODO)**
-* Spójny podciąg o największej sumie **(TODO)**
+* Problem plecakowy
+* Spójny podciąg o największej sumie
 * Najdłuższy wspólny podciąg
 * Problem największej działki
 

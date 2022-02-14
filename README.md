@@ -57,7 +57,6 @@
 * Problem największej działki
 
 ## 7. Inne
-* Wyszukiwanie binarne **(TODO)**
 * Sortowanie przez zliczanie **(TODO)**
-* Sortowanie pozycyjne **(TODO)**
-* Sortowanie przez scalanie **(TODO)**
+* Sortowanie pozycyjne
+* Liczenie inwersji w O(nlogn) **(TODO)**

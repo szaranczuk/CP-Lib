@@ -43,11 +43,12 @@
 * Aho-Corasick
 
 ## 5. Geometria
-* Iloczyn wektorowy **(TODO)**
-* Iloczyn skalarny **(TODO)**
-* Sprawdzanie czy punkt należy do odcinka **(TODO)**
-* Sprawdzanie czy punkt należy do trójkąta **(TODO)**
+* Iloczyn wektorowy
+* Iloczyn skalarny 
+* Sprawdzanie czy punkt należy do odcinka
+* Sprawdzanie czy punkt należy do trójkąta
 * Sprawdzanie czy punkt należy do wielokąta wypukłego w O(log n) (Przy posortowanych punktach) **(TODO)**
+* Sprawdzanie czy odcinki się przecinają **(TODO)**
 * Otoczka wypukła **(TODO)**
 
 ## 6. Programowanie dynamiczne

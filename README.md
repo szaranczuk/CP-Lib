@@ -7,7 +7,7 @@
 * Sito Eratostenesa 
 * Funkcja Phi 
 * Test Millera Rabina 
-* Arytmetyka dużych liczb **(TODO)**
+* Arytmetyka dużych liczb
 
 ## 2. Struktury
 * Kolejka minimów
@@ -61,5 +61,3 @@
 * Sortowanie przez zliczanie **(TODO)**
 * Sortowanie pozycyjne **(TODO)**
 * Sortowanie przez scalanie **(TODO)**
-* Pierwiastkowa dekompozycja **(TODO)**
-* Nim i ogólnie teoria gier **(TODO)**

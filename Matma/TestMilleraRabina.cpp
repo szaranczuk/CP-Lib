@@ -21,7 +21,7 @@ bool check(long long n, int a, long long d, int s){
 
 	if(k == 1 || k == n-1) return true;
 
-	while(s--){
+	for(int i=1;i<s;i++){
 		k = (lll) k * k % n;
 		if(k == n-1) return true;
 	}

@@ -8,7 +8,6 @@ using namespace std;
 
 int n;
 int a[N];
-int p1, p2;
 vector<pair<int, int>> queries;
 long long ans;
 int t[2*N];
@@ -50,11 +49,9 @@ int main(){
 
 	sort(queries.begin(), queries.end());
 
-	while(p2 < n){
-		ans += sum(1, 0, n-1, queries[p1++].second, n-1);
-		while(p1 < n && queries[p1-1].second == queries[p1].second) ans += sum(1, 0, n-1, queries[p1++].second, n-1);
-		add(1, 0, n-1, queries[p2++].second);
-		while(p2 < n && queries[p2-1].second == queries[p2].second) add(1, 0, n-1, queries[p2++].second);
+	for(int i=0;i<n;i++){
+		ans += sum(1, 0, n-1, queries[i].second, n-1);
+		add(1, 0, n-1, queries[i].second);
 	}
 
 	cout << ans;

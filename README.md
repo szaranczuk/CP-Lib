@@ -12,7 +12,7 @@
 ## 2. Struktury
 * Kolejka minimów
 * DSU
-* Drzewa przedziałowe **(TODO)**
+* Drzewa przedziałowe
 * Sparse Table
 
 ## 3. Grafy
@@ -48,7 +48,7 @@
 * Sprawdzanie czy punkt należy do odcinka
 * Sprawdzanie czy punkt należy do trójkąta
 * Sprawdzanie czy odcinki się przecinają
-* Otoczka wypukła **(TODO)**
+* Otoczka wypukła
 
 ## 6. Programowanie dynamiczne
 * Problem plecakowy

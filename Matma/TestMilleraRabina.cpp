@@ -38,6 +38,7 @@ bool miller_rabin(long long n){
 		d >>= 1;
 		s++;
 	}
+	s--;
 
 	for(int a : {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37}){
 		if(a == n) return true;
